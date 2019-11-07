@@ -1,2 +1,2 @@
 # rust-the-book-exercises
-excercises and notes from the rust book
+exercises and notes from the rust book
